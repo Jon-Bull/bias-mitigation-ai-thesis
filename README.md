@@ -18,9 +18,11 @@ The findings suggest that incorporating user metadata can enhance fairness in AI
 As artificial intelligence (AI) continues to advance, the challenge of addressing biases within  
 AI systems becomes more pressing. This thesis investigates the potential of developing a  
 framework that leverages user metadata to reduce bias in AI datasets while maintaining  
-compliance with GDPR regulations. An extensive literature review is conducted to understand the extent and sources of bias in AI, followed by a semi-automated system design  
+compliance with GDPR regulations. An extensive literature review is conducted to understand
+the extent and sources of bias in AI, followed by a semi-automated system design  
 approach and demonstration of key concepts with a simple prototype.  
-The literature review highlights that AI development is highly dependent on increased quantity, diversity, and quality of data. It also underscores that bias in AI is a significant issue  
+The literature review highlights that AI development is highly dependent on increased quantity,
+diversity, and quality of data. It also underscores that bias in AI is a significant issue  
 originating from various sources, such as data annotation and dataset composition. The  
 review discover a research gap regarding the role of user metadata and annotator diversity  
 in causing these biases, and the potential for leveraging this user metadata to help mitigate  
@@ -30,7 +32,8 @@ The prototype demonstrate practical solutions for obtaining user consent, collec
 facilitating data annotation in compliance with GDPR. It showcases the potential for users  
 to continuously manage their data contributions and consents, ensuring it can be utilized  
 ethically and legally. This proves that it is feasible to leverage user data while adhering to  
-GDPR, provided proper measures are in place. Ensuring informed user consent, understanding implications, and allowing easy modification of consent without negative consequences  
+GDPR, provided proper measures are in place. Ensuring informed user consent, understanding
+implications, and allowing easy modification of consent without negative consequences  
 are vital steps in this process. The prototype visualise a way developers and researchers can  
 analyse and adjust the demographic representation of annotators within a set of training  
 data in order to mitigate bias.  
